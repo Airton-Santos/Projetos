@@ -1,0 +1,41 @@
+body {
+    color: white;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(14, 14, 36);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+section {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 300px; /* Largura fixa para cada card */
+    margin: 20px; /* Margem ao redor de cada card */
+    background-color: #333; /* Cor de fundo para cada card */
+    border-radius: 8px; /* Borda arredondada */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra */
+    overflow: hidden; /* Para evitar que a sombra se estenda */
+}
+
+.poster {
+    width: 100%; /* A imagem ocupa toda a largura do card */
+    height: auto; /* Altura ajustável */
+}
+
+.info {
+    padding: 15px;
+}
+
+.info h4 {
+    margin-top: 0;
+}
+
+.info p {
+    margin-bottom: 5px;
+}

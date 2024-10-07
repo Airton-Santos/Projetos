@@ -1,0 +1,11 @@
+.card{
+    display: flex;
+    justify-content: space-evenly;
+
+    background-color: #111111;
+    color: #9999;
+}
+
+.card:nth-child(2n){
+    background-color: #1f1f1f;
+}

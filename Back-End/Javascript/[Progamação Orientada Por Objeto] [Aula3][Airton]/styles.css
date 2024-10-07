@@ -1,0 +1,44 @@
+body {
+    background-color: #05051f;
+
+}
+
+.card {
+    width: 400px;
+    background-color: #0E0E52;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nome {
+    font-size: 25px;
+    font-weight: 800;
+    color: orange;
+}
+
+.armazenamento {
+    color: #449DD1;
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+.ram {
+    color: #449DD1;
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+.cor {
+    color: #449DD1;
+    font-size: 20px;
+    margin-left: 12px;
+}
+
+.preco {
+    font-weight: 800;
+    text-align: right;
+    font-size: 24px;
+    color: #78C0E0;
+}
