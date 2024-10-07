@@ -1,0 +1,211 @@
+body {
+    margin: auto;
+    padding: auto;
+    display: flex;
+}
+
+/*container1*/
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    gap: 10px;
+    width: 320px;
+    background-color: #f8c3f8;
+    border-radius: 10px;
+}
+
+.pacotesText {
+    font-family: "Barlow", sans-serif;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color: #d41ea4;
+    width: 100px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 17px;
+    color: #fff;
+}
+
+.descontoText {
+    font-family: "Barlow", sans-serif;
+    margin-left: 25px;
+    font-weight: 100px;
+    font-style: italic;
+    color: #928e8e;
+    font-size: 20px;
+}
+
+.conteudo {
+    margin-left: 25px;
+    font-size: 30px;
+    font-family: "Barlow", sans-serif;
+    width: 350px;
+    white-space: pre-line;
+    color: #723e72;
+
+}
+
+.link {
+    margin-left: 25px;
+    color: #143ad3;
+    font-family: "Barlow", sans-serif;
+}
+
+.imglogo {
+    margin-left: 50px;
+    width: 200px;
+    height: 150px;
+}
+
+.footer {
+    font-family: "Barlow", sans-serif;
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    justify-content: center;
+    background-color: #d41ea4;
+    height: 55px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.decolar {
+    font-weight:bold;
+    font-family: "Barlow", sans-serif;
+    font-size: 20px;
+}
+
+/*container2*/
+
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    gap: 10px;
+    width: 320px;
+    background-color: #fbe59d;
+    border-radius: 10px;
+}
+
+.hoteis {
+    font-family: "Barlow", sans-serif;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color: #973d02;
+    width: 100px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 17px;
+    color: #fff;
+}
+
+.decolar2 {
+    font-weight:bold;
+    font-size: 20px;
+    font-family: "Barlow", sans-serif;
+}
+
+.footer2 {
+    font-family: "Barlow", sans-serif;
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    background-color: #973d02;
+    height: 55px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+/*ontainer3*/
+
+.container3 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    gap: 10px;
+    width: 320px;
+    background-color: #dcedba;
+    border-radius: 10px;
+}
+
+.carrosText {
+    font-family: "Barlow", sans-serif;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color: #5c7a1f;
+    width: 100px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 17px;
+    color: #fff;
+}
+
+
+.footer3 {
+    font-family: "Barlow", sans-serif;
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    background-color: #5c7a1f;
+    height: 55px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.cars {
+    font-weight:bold;
+    font-size: 20px;
+    font-family: "Barlow", sans-serif;
+}
+
+/*Container4*/
+
+.container4 {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+    gap: 10px;
+    width: 320px;
+    background-color: #d9f2fc;
+    border-radius: 10px;
+}
+
+.seguroText {
+    font-family: "Barlow", sans-serif;
+    margin-left: 25px;
+    margin-top: 20px;
+    background-color: #1e6892;
+    width: 150px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 17px;
+    color: #fff;
+}
+
+.footer4 {
+    font-family: "Barlow", sans-serif;
+    display: flex;
+    gap: 10px;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    background-color: #1e6892;
+    height: 55px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.assistcard {
+    font-weight:bold;
+    font-size: 20px;
+    font-family: "Barlow", sans-serif;
+}
